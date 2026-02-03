@@ -1,6 +1,6 @@
 {
 	"title": "RAIN",
-	"description": "Rain is a slice-of-life/comedy/drama that follows the life of a teenage transgender girl named Rain, as she attempts to go through her senior year in high school identifying only as a woman. Along the way, she makes friends with an eclectic bunch of people of varying orientations and gender identities. See their stories filled with silly humor, teenage angst, occasional adult angst, copious amounts of love triangles, mockery of product names, complex relationships, tons and tons of dialogue, and sometimes a cute, little bunny. How can you go wrong, right?",
+	"description": "Rain is a slice-of-life/comedy/drama that follows the life of a teenage transgender girl named Rain, as she attempts to go through her senior year in high school identifying only as a woman. Along the way, she makes friends with an eclectic bunch of people of varying orientations and gender identities. See their stories filled with silly humor, teenage angst, occasional adult angst, copious amounts of love triangles, mockery of product names, complex relationships, tons and tons of dialogue, and sometimes a cute, little bunny. How can you go wrong, right?\n[Official site for RAIN](https://rain.thecomicseries.com) (which is also where these images are being pulled from.",
 	"artist": "Jocelyn Samara DiDomenick",
 	"author": "Jocelyn Samara DiDomenick",
 	"cover": "https://img.comicfury.com/comics/dfebc8f8d333973fadb59e1e6552ebbd454448621.png",
@@ -13,6 +13,17 @@
             "https://img.comicfury.com/comics/3714ae7b21d6a4f3e73d74088cbf6de61332828526.png",
             "https://img.comicfury.com/comics/c2b8141e64b94ce5031968192e44ef0b1125474994.png",
             "https://img.comicfury.com/comics/08b927540b54cb4adf7e20ff9e061298435475647.png"
+          ]
+        }
+      },
+      "1": {
+        "title": "The New Girl",
+        "groups": {
+          "Official": [
+            "https://img.comicfury.com/comics/c8f813e19a0aae0f2a0b57a6b36ceec52058036413.png",
+            "https://img.comicfury.com/comics/cf541c67c5957d77f230fbe67bebece3756619423.png",
+            "https://img.comicfury.com/comics/c8aa144daf7689584a4dac0fe8ccc8e2992769914.png",
+            "https://img.comicfury.com/comics/6d068bc0d41489595a11058cb9ceb824575229024.png"
           ]
         }
       }
