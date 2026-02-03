@@ -1,0 +1,20 @@
+{
+	"title": "RAIN",
+	"description": "Rain is a slice-of-life/comedy/drama that follows the life of a teenage transgender girl named Rain, as she attempts to go through her senior year in high school identifying only as a woman. Along the way, she makes friends with an eclectic bunch of people of varying orientations and gender identities. See their stories filled with silly humor, teenage angst, occasional adult angst, copious amounts of love triangles, mockery of product names, complex relationships, tons and tons of dialogue, and sometimes a cute, little bunny. How can you go wrong, right?"
+  "artist": "Jocelyn Samara DiDomenick",
+	"author": "Jocelyn Samara DiDomenick",
+	"cover": "https://img.comicfury.com/comics/dfebc8f8d333973fadb59e1e6552ebbd454448621.png",
+	"chapters": {
+      "0": {
+        "title": "Prologue",
+        "groups": {
+          "Official": [
+            "https://img.comicfury.com/comics/c3dbf56cfb1eb1124bbe71902242e86a406900338.png",
+            "https://img.comicfury.com/comics/3714ae7b21d6a4f3e73d74088cbf6de61332828526.png",
+            "https://img.comicfury.com/comics/c2b8141e64b94ce5031968192e44ef0b1125474994.png",
+            "https://img.comicfury.com/comics/08b927540b54cb4adf7e20ff9e061298435475647.png"
+          ]
+        }
+      }
+    }
+}
