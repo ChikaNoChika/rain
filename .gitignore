@@ -1,0 +1,10 @@
+# Block everything by default so I can store scripts and stuff in here freely
+*
+
+# Git stuff
+!.gitignore
+!.gitattributes
+
+# The Gist(tm)
+!*.json
+!*.md
