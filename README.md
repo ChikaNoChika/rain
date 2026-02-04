@@ -20,7 +20,7 @@ A: This is a thing you can use to read RAIN with an actual reader that doesn't s
 A: At the time of this commit being made, I am doing my first readthrough and dislike all the official reading sites. I like the Cubari reader quite a bit, so I figured I might as well port RAIN to that.
 
 **Q: How does this work?**  
-A: ~~It doesn't.~~ Basically, I manually copy down all the direct image links to RAIN from the [official site](https://rain.thecomicseries.com), put them into that RAIN.json file you see in the filelist, and from there Cubari does the rest!
+A: ~~It doesn't.~~ Basically, I copy down all the direct image links to RAIN from the [official site](https://rain.thecomicseries.com) using a script, put them into that RAIN.json file you see in the filelist, and from there Cubari does the rest!
 
 **Q: What is the difference between this and the official versions?**  
 A: If I did everything correctly, nothing. In practice I will probably miss a page somewhere. As far as I know this does not give or take revenue away from Jocelyn. 
